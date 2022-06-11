@@ -1,0 +1,38 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+header{
+  width: 100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom center;
+}
+
+.title{
+  padding: 20px 0 0 20px;
+  color: gray;
+}
+
+main{
+  width: 840px;
+  padding: 20px 0 50px 0;
+  margin: 0 auto;
+}
+
+.main-item{
+  width: 100%;
+  padding: 30px;
+  border-bottom: 1px solid gray;
+}
+
+.main-item-text{
+  color: gray;
+}
+
+.junp{
+  color: gray;
+}
